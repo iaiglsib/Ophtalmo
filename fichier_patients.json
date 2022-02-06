@@ -1,0 +1,44 @@
+[
+    {
+        "Patient id": "1",
+        "Nom": "BoB",
+        "Age": 55,
+        "Sexe": "M",
+        "Diagnostic ": {
+            "Date consultation": "2022-02-04 21:33:54.937121",
+            "Acuite_visuelle": 3,
+            "Vision de pres": "floue",
+            "Vision de loin": "floue",
+            "Axe pres": 22.0,
+            "Axe loin": 34.0,
+            "Sphere pres": 22.0,
+            "Sphere loin": 45.0,
+            "Cylindre pres": 2.0,
+            "Cylindre loin": 34.0,
+            "Troubles": [
+                "Presbytie"
+            ]
+        }
+    },
+    {
+        "Patient id": "3",
+        "Nom": "NHD",
+        "Age": 44,
+        "Sexe": "M",
+        "Diagnostic ": {
+            "Date consultation": "2022-02-04 21:57:21.748573",
+            "Acuite_visuelle": 3,
+            "Vision de pres": "normale",
+            "Vision de loin": "normale",
+            "Axe pres": 33.0,
+            "Axe loin": 2.0,
+            "Sphere pres": 44.0,
+            "Sphere loin": 2.0,
+            "Cylindre pres": 45.0,
+            "Cylindre loin": 3.0,
+            "Troubles": [
+                "Expertise medicale requise"
+            ]
+        }
+    }
+],
